@@ -1,3 +1,3 @@
-0_EDA - Исследование датасета
-1_model_implicite - 
+# 0_EDA - Исследование датасета
+- 1_model_implicite. 
 
