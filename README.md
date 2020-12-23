@@ -3,5 +3,5 @@
 
 Темы
 1. recommender_system - какой товар клиент купит следущим.
-2. house_price_prediction - Предсказать стоимость дома.
+2. house_price_prediction - предсказать стоимость дома.
 3. ...
